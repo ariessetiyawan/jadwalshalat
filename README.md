@@ -5,8 +5,8 @@ End point:
 http://localhost:8003/jadwalshalat/nama kota/tanggal
 
 contoh:
-http://localhost:8003/jember
-http://localhost:8003/jember/2024-01-01
+- http://localhost:8003/jember
+- http://localhost:8003/jember/2024-01-01
 
 youtube video:
 https://www.youtube.com/watch?v=_BZhd9m-LPQ
